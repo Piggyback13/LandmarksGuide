@@ -1,7 +1,7 @@
 import SwiftUI
 
 @main
-struct LandmarksApp: App {
+struct LandmarksGuideApp: App {
     @StateObject private var modelData = ModelData()
     
     var body: some Scene {
